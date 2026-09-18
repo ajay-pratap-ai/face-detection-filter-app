@@ -5,7 +5,7 @@ Detects faces in a live webcam feed using OpenCV's Haar Cascade classifier
 and applies a user-selected filter (box, blur, or grayscale) to each
 detected face region in real time.
 
-Author: <YOUR NAME HERE>
+Author: Ajay pratap
 Course: Computer Vision - Flipped Course Evaluation
 """
 
